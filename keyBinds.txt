@@ -1,0 +1,10 @@
+AimAssist= F
+AutoClicker= I
+FastPlace= V
+FullBright= A
+HitBoxes= N
+Reach= N
+Sprint= U
+TriggerBot= G
+Velocity= G
+WTap= E
